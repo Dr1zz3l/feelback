@@ -1,4 +1,4 @@
-# feelBack
+# feelback
 Pythonista haptic engine and vibration feedback
 
 # Haptic and vibration feedback for the Pythonista iOS app

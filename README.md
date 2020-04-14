@@ -41,7 +41,7 @@ Same as `selectionChanged`
     notificationOccured(id = False, workaround = workaround)
 If the "proper" method is used, there are different types (0, 1 and 2) to choose from. Maybe there's more, but I only know of these. if no id is passed, the workaround is used automatically. This is because I haven't yet found the AudioServices ids of any types except one, assuming they exist.
 
-## vibrate
+### vibrate
     vibrate()
 As far as I know, there is no way to contol the strength or duration of the vibration. The latter can only be achieved by calling the `vibrate` multiple times with a slight delay, so they still overlap.
 

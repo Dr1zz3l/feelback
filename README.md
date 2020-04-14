@@ -38,7 +38,7 @@ Same as `selectionChanged`
 
 #### notificationOccured
     notificationOccured(id = False, workaround = workaround)
-If the "proper" method is used, there are three different types (0, 1 and 2) to choose from. if no id is passed, the workaround is used automatically.
+If the "proper" method is used, there are different types (0, 1 and 2) to choose from. Maybe there's more, but I only know of these. if no id is passed, the workaround is used automatically. This is because I haven't yet found the AudioServices ids of any types except one, assuming they exist.
 
 ## vibrate
     vibrate()

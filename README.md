@@ -24,6 +24,7 @@ Apart of simple vibrations, there basically are three different types of haptic 
 - `selectionChanged` 
 - `impactOccured` - e.g. for games
 - `notificationOccured`
+
 Since the iPhone 6s only supports this over a little workaround, the boolean `workaround` is used to change between using the "proper" method and the workaround.
 If, for any reason, you need to use the workaround instead of the "proper" method, just pass `workaround = True`.
 

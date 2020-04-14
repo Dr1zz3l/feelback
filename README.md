@@ -37,7 +37,7 @@ Pretty self-explanatory
 Same as `selectionChanged`
 
 #### notificationOccured
-    notificationOccured(id, workaround = workaround)
+    notificationOccured(id = False, workaround = workaround)
 If the "proper" method is used, there are three different types (0, 1 and 2) to choose from. if no id is passed, the workaround is used automatically.
 
 ## vibrate

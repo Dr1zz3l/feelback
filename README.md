@@ -2,7 +2,7 @@
 Pythonista haptic engine and vibration feedback
 
 # Haptic and vibration feedback for the Pythonista iOS app
-allows feelable feedback over the haptic engine and vibrator in iOS and iPadOS devices.
+allows feelable feedback over the haptic engine and vibration.
 
 The iPhone 6s is the first iOS device to come with a haptic engine, which is only supported over a little workaround. This is used automatically. More info below.
 

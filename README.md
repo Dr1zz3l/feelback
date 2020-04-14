@@ -17,7 +17,7 @@ Copy from [GitHub](https://github.com/Dr1zz3l/feelback)
     feelback.impactOccured(workaround = True)
     for id in range (0, 3): feelback.notificationOccured(id)
     feelback.vibrate()
-It is also possible to play predefined [AudioServices](https://iphonedevwiki.net/index.php/AudioServices) by calling `AudioServicesPlaySystemSound(id)`.
+It is also possible to play predefined [SystemSounds](https://github.com/TUNER88/iOSSystemSoundsLibrary#list-of-systemsoundids) by calling `AudioServicesPlaySystemSound(id)`.
 
 ### Haptic engine
 Apart of simple vibrations, there basically are three different types of haptic feedback. Their intended uses are defined in the Apple developer docs as these:

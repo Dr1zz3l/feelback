@@ -1,5 +1,5 @@
 # feelback
-Pythonista haptic engine and vibration feedback
+Pythonista implementation for haptic engine and vibration feedback
 
 # Haptic and vibration feedback for the Pythonista iOS app
 allows feelable feedback over the haptic engine and vibration.
